@@ -1,2 +1,2 @@
 ### PDSA - IIT Madras
-This repo contains all the lecture notes along with the graded assignments.
+This repo contains all the lecture notes along with the graded assignments. All the lecture notes are stored inside the week folder and assignments are stored inside graded folder.
